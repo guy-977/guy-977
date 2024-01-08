@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently High School student
+- 🔭 I’m currently a medical student
 - 🌱 I’m currently learning AI & ML
 
 ### Languages and Tools
@@ -37,6 +37,17 @@ Here are some ideas to get you started:
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
 <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
 </p>
+
+### Reach me out:
+<ul>
+  <li><a href="mailto:aalrefaei93@gmail.com" target="_blank">Email: aalrefaei93@gmail.com</a> </li>
+  <li><a href="https://instagram.com/guy_997" target="_blank">Instagram Profile: @guy_997</a> </li>
+  <li><a href="https://twitter.com/guy_997" target="_blank">Twitter Profile: @guy_997</a></li>
+  <li><a href="https://t.me/guy_997" target="_blank">Telegram Profile: @guy_997</a> </li>
+  <li><a href="https://huggingface.co/ahmed-ai" target="_blank">Huggingface Profile: @ahmed-ai</a> </li>
+  <li><a href="https://www.kaggle.com/ahmedxc4" target="_blank">Kaggle Profile: @ahmedxc4</a> </li>
+  <li>Discord username: x_hawk </li>
+</ul>
 
 ### Github Stats
 
