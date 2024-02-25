@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a medical student
-- 🌱 I’m currently learning AI & ML
+- 🔭 I’m currently a Front-end developer, and medical student
+- 🌱 I’m currently learning AI & ML  
+![Profile Views](https://komarev.com/ghpvc/?username=guy-977)
 
 ### Languages and Tools
 <p align="left"><a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
