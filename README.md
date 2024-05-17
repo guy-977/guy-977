@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <li><a href="https://t.me/guy_997" target="_blank">Telegram Profile: @guy_997</a> </li>
   <li><a href="https://huggingface.co/ahmed-ai" target="_blank">Huggingface Profile: @ahmed-ai</a> </li>
   <li><a href="https://www.kaggle.com/ahmedxc4" target="_blank">Kaggle Profile: @ahmedxc4</a> </li>
-  <li>Discord username: x_hawk </li>
+  <li>Discord username: ahmed.gov </li>
 </ul>
 
 ### Github Stats
